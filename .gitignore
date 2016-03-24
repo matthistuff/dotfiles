@@ -1,9 +1,0 @@
-*
-
-!.gitignore
-!.gitignore_global
-!.gitconfig
-!.vimrc
-!.zshrc
-!Brewfile
-!setup.sh
